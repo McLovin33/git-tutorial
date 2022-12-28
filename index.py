@@ -2,3 +2,6 @@
 
 def getSum(a, b):
     return a+b
+
+def authenticationFunc():
+    return 'Holaa'
